@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "94cf62b3ba8d4bed62680a282d4c25f9c63c2efb",
+        "version" : "1.1.0"
+      }
+    },
+    {
+      "identity" : "swift-meta-serialization",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ilg/swift-meta-serialization.git",
+      "state" : {
+        "branch" : "fix-spm",
+        "revision" : "e78d6327b763bd12b9f9753c65c7b0981a25fa37"
+      }
+    },
+    {
+      "identity" : "swiftformat",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicklockwood/SwiftFormat",
+      "state" : {
+        "revision" : "9e5d0d588ab6e271fe9887ec3dde21d544d4b080",
+        "version" : "0.53.5"
+      }
+    },
+    {
+      "identity" : "xmlrpccoder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ilg/XMLRPCCoder.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "fda08ebbb90e7e333cdffbe5572412662dd430d3"
+      }
+    }
+  ],
+  "version" : 2
+}
